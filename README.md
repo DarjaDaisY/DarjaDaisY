@@ -1,5 +1,5 @@
 ## Hi there 👋
-<ing src=''
+<ing src="https://github.com/DarjaDaisY/DarjaDaisY/blob/main/Cats%20Dance.gif" alt="The unlimited" width='600'>
 **DarjaDaisY/DarjaDaisY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
